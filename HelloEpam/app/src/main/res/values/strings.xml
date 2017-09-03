@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloEpam</string>
+    <string name="toast_name">HelloEpam</string>
+    <string name="tipe_text">Plz Click</string>
 </resources>
